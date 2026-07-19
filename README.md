@@ -4,18 +4,6 @@
 
 ### *AI-Powered Smart Infrastructure Command Center*
 
-**Detecting damage before it becomes disaster.**
-
-![Version](https://img.shields.io/badge/version-3.6.2-4EDEA3?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-5DE6FF?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.12%2B-FFD76B?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-19-A78BFA?style=for-the-badge&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-4EDEA3?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Hackathon](https://img.shields.io/badge/🏆_NIRMAN-2026-FFA94D?style=flat-square)
-![Problem](https://img.shields.io/badge/Problem_Statement-%234-FF6B6B?style=flat-square)
-![University](https://img.shields.io/badge/Amity_University-Mumbai-A78BFA?style=flat-square)
-
 ---
 
 *Built in 48 hours. Deployable to 1 billion people.*
@@ -256,8 +244,8 @@ XP, Civic Coins, 13 badges, daily streaks, AI Challenge game, Pothole Hunter lea
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/SaudSatopay/CrackWatch-NirmanHackathon.git
-cd CrackWatch-NirmanHackathon
+git clone https://github.com/gragznotkool/CrackWatch.git
+cd CrackWatch
 ```
 
 ### 2. Install Backend Dependencies
@@ -601,7 +589,7 @@ MIT — Feel free to fork, adapt, and deploy to your own municipality. Open-sour
 - **Twilio** — WhatsApp Sandbox (free tier)
 - **OpenStreetMap + OSRM** — Free mapping infrastructure
 - **Ultralytics** — YOLOv8 inference framework
-- **Amity University Mumbai** — Hosting NIRMAN 2026
+
 - Every pothole that inspired this build. May you never trip another commuter.
 
 ---
