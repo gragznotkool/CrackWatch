@@ -579,30 +579,12 @@ Highlights:
 
 ---
 
-## 🏆 Hackathon Context
-
-**Event:** NIRMAN 2026 — Amity University Mumbai
-**Dates:** April 15-17, 2026 (48 hours)
-**Problem Statement:** #4 — AI-based infrastructure damage detection
-**Team:** Solo — Saud Satopay
 
 ### The One Line That Wins
 
 > **"Detecting a pothole doesn't fix it. A watched government does."**
 
 ---
-
-## 👨‍💻 Author
-
-<div align="center">
-
-### **Saud Satopay**
-
-Student Developer · Amity University Mumbai
-
-[![GitHub](https://img.shields.io/badge/GitHub-SaudSatopay-4EDEA3?style=for-the-badge&logo=github)](https://github.com/SaudSatopay)
-
-</div>
 
 ---
 
@@ -626,7 +608,7 @@ MIT — Feel free to fork, adapt, and deploy to your own municipality. Open-sour
 
 <div align="center">
 
-**Built with ☕ and zero sleep during NIRMAN Hackathon 2026.**
+
 
 *If this helped your city, a ⭐ on GitHub means the world.*
 
